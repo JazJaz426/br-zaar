@@ -2,7 +2,7 @@
 ## Project Details
 - **Project name:** Br-Zaar
 - **Team Members:**
-  - Jiaming Lin (jlin223)
+  - Jazlyn Lin (jlin223)
   - Xinyang Cai (cxinyang)
   - Zhinuo Wang (zwang571)
 - **Total Estimated Time:** 100 hours
