@@ -52,10 +52,3 @@ npm start
 ```
 
 3. Go to [localhost:8000](http://localhost:8000/) and click Sign in With Google to sign in with your brown edu Google account and now you can access the BZaar through your web browser.
-
-
-## Collaboration
-
-- Jiaming Lin (jlin223): Focused on optimizing the algorithm complexity for the recommendation/discover page using item-based collaborative filtering. Enhanced the frontend aesthetics and functionality, including adding like buttons and loading prompts on the search and discover pages, and fixing numerous bugs to improve user experience.
-- Xinyang Cai (cxinyang): Developed backend endpoints such as recordUserActivity, modifyWatchList, and search, along with their corresponding frontend implementations. Provided debugging support to team members and contributed to backend unit and integration testing.
-- Zhinuo Wang (zwang571): Implemented a "post" button for featured works, including functionalities for deleting posts and providing frontend user feedback. Enhanced user data connections to the user's sell list and added backend support functions like getSellingList to improve item retrieval efficiency. Also contributed to frontend testing.
