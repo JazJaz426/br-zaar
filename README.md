@@ -6,7 +6,6 @@
   - Xinyang Cai (cxinyang)
   - Zhinuo Wang (zwang571)
 - **Total Estimated Time:** 100 hours
-- **Repo Link:** [GitHub](https://github.com/cs0320-s24/term-project-candice-novia-jaz)
 
 ![Screenshot 2024-05-29 at 8 51 58 pm](https://github.com/JazJaz426/br-zaar/assets/46860162/d0a3668d-64b4-4f0d-834c-b87cc5c67b5a)
 
